@@ -18,7 +18,7 @@ Focused on clean APIs, cloud-native architecture, and modern frontend developmen
 - ☁️ AWS Solutions Architect
 
 ## LeetCode Stats
-![LeetCode](https://leetcard.jacoblin.cool/HugoCortez?theme=light&font=Karma)
+![LeetCode](https://leetcard.jacoblin.cool/hugo-vitorino-cortez?theme=light&font=Karma)
 
 ## Let's connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/seuperfil)
