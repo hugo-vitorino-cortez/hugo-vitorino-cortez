@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Hugo Cortez 👋
 
-<!--
-**hugo-cortez/hugo-cortez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+Full Stack Developer based in Brazil, building scalable web apps with Go, React, and AWS.  
+Focused on clean APIs, cloud-native architecture, and modern frontend development.
 
-Here are some ideas to get you started:
+## Tech Stack
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+- 🐍 Python (PCEP → PCAP)
+- 📊 Data Structures & Algorithms
+- ☁️ AWS Solutions Architect
+
+## LeetCode Stats
+![LeetCode](https://leetcard.jacoblin.cool/HugoCortez?theme=light&font=Karma)
+
+## Let's connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/seuperfil)
