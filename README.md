@@ -15,15 +15,15 @@ Currently deepening my expertise in **Go** and **distributed systems** — worki
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 
 ## Currently Learning
-
+```
 🐹 **Go** — from idiomatic fundamentals to production patterns  
 🏗️ **Distributed Systems** — replication, partitioning, consensus, observability  
 🐍 **Data Structures & Algorithms** — NeetCode roadmap (in Python)  
 🌐 **System Design** — Alex Xu Vol. 1 + real engineering case studies  
 🐳 **Kubernetes** + ☁️ **AWS** — production deployment patterns  
-
+```
 ## On the Bookshelf
-
+```
 📖 *Designing Data-Intensive Applications* — Kleppmann  
 📖 *Database Internals* — Petrov  
 📖 *Let's Go* + *Let's Go Further* — Edwards  
@@ -31,8 +31,7 @@ Currently deepening my expertise in **Go** and **distributed systems** — worki
 📖 *100 Go Mistakes* — Harsanyi  
 📖 *System Design Interview Vol. 1* — Alex Xu  
 📖 *Kafka: The Definitive Guide*  
-📖 *Site Reliability Engineering* — Google (free at [sre.google/books](https://sre.google/books))  
-
+```
 ## Current Projects
 
 🚧 Building distributed systems projects in Go as I progress through my learning roadmap. Repos will be published as they reach meaningful milestones — stay tuned.
