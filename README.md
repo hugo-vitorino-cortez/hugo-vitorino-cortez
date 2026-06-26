@@ -2,39 +2,38 @@
 
 ## About me
 
-Backend Software Engineer based in Brazil 🇧🇷, with ~3 years of experience building enterprise systems in **Java/Quarkus**.
+Frontend Engineer based in Brazil 🇧🇷, with 3+ years of experience building 
+enterprise applications with **Angular** and **TypeScript**.
 
-Currently deepening my expertise in **Go** and **distributed systems** — working systematically through foundational books, building production-grade Go services, and tackling algorithmic problems daily.
+Currently expanding into the **React ecosystem** — going deep on Next.js, 
+modern state management, design systems, and frontend architecture at scale. 
+Sharpening TypeScript, frontend system design, and the craft of building 
+fast, accessible, well-designed interfaces.
 
 ## Professional Stack
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=flat&logo=quarkus&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 
 ## Currently Learning
-```
-🐹 **Go** — from idiomatic fundamentals to production patterns  
-🏗️ **Distributed Systems** — replication, partitioning, consensus, observability  
-🐍 **Data Structures & Algorithms** — NeetCode roadmap (in Python)  
-🌐 **System Design** — Alex Xu Vol. 1 + real engineering case studies  
-🐳 **Kubernetes** + ☁️ **AWS** — production deployment patterns  
-```
-## On the Bookshelf
-```
-📖 *Designing Data-Intensive Applications* — Kleppmann  
-📖 *Database Internals* — Petrov  
-📖 *Let's Go* + *Let's Go Further* — Edwards  
-📖 *Concurrency in Go* — Cox-Buday  
-📖 *100 Go Mistakes* — Harsanyi  
-📖 *System Design Interview Vol. 1* — Alex Xu  
-📖 *Kafka: The Definitive Guide*  
-```
+
+⚛️ **React** — hooks deep, patterns, performance, React 19 concurrent model  
+▲ **Next.js** — App Router, Server Components, streaming, server actions  
+🎨 **Design Systems** — Radix, shadcn/ui patterns, Storybook, component API design  
+💨 **Tailwind CSS** — utility-first workflow, design tokens, theming  
+🧠 **Advanced TypeScript** — generics, conditional types, mapped types  
+🏗️ **Frontend System Design** — RADIO framework, scalable UI architecture  
+
 ## Current Projects
 
-🚧 Building distributed systems projects in Go as I progress through my learning roadmap. Repos will be published as they reach meaningful milestones — stay tuned.
+🚧 Building frontend projects in the React/Next.js ecosystem as I progress 
+through my learning roadmap. Repos will be published as they reach meaningful 
+milestones — stay tuned.
 
 ## LeetCode Progress
 
