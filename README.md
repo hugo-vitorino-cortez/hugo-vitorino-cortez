@@ -2,13 +2,11 @@
 
 ## About me
 
-Frontend Engineer based in Brazil 🇧🇷, with 3+ years of experience building 
-enterprise applications with **Angular** and **TypeScript**.
+Frontend Engineer based in Brazil 🇧🇷, with 3+ years of experience building enterprise applications with **Angular** and **TypeScript**.
 
-Currently expanding into the **React ecosystem** — going deep on Next.js, 
-modern state management, design systems, and frontend architecture at scale. 
-Sharpening TypeScript, frontend system design, and the craft of building 
-fast, accessible, well-designed interfaces.
+Currently expanding into the **React ecosystem** — going deep on Next.js, modern state management, design systems, and frontend architecture at scale. Sharpening TypeScript, frontend system design, and the craft of building fast, accessible, well-designed interfaces.
+
+I'm a believer in building software you actually use. **iron**, my main project, is a workout tracker I log every training session into.
 
 ## Professional Stack
 
@@ -31,9 +29,9 @@ fast, accessible, well-designed interfaces.
 
 ## Current Projects
 
-🚧 Building frontend projects in the React/Next.js ecosystem as I progress 
-through my learning roadmap. Repos will be published as they reach meaningful 
-milestones — stay tuned.
+🏋️ **iron** — A premium workout tracker for the web. Built with Next.js, 
+Supabase, and offline-first architecture. I use it for every training 
+session, which means it has to be reliable. *In development.*
 
 ## LeetCode Progress
 
@@ -41,4 +39,4 @@ milestones — stay tuned.
 
 ## Let's connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/seuperfil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/hugo-vitorino-cortez)
