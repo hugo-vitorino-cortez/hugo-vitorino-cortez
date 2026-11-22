@@ -1,42 +1,52 @@
-# Hi, I'm Hugo Cortez 👋
+# Hi, I'm Hugo Cortez
 
-## About me
+I'm a software engineer based in Brazil with a degree in Computer Science. My professional experience is focused on frontend development, particularly building web applications with Angular and TypeScript.
 
-Frontend Engineer based in Brazil 🇧🇷, with 3+ years of experience building enterprise applications with **Angular** and **TypeScript**.
+I'm currently expanding my knowledge in Data Science and Machine Learning, strengthening my foundations in mathematics, statistics, and predictive modeling.
 
-Currently expanding into the **React ecosystem** — going deep on Next.js, modern state management, design systems, and frontend architecture at scale. Sharpening TypeScript, frontend system design, and the craft of building fast, accessible, well-designed interfaces.
+## Research Interests
 
-I'm a believer in building software you actually use. **iron**, my main project, is a workout tracker I log every training session into.
+![Predictive Modeling](https://img.shields.io/badge/Predictive_Modeling-3776AB?style=flat-square)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square)
+![Statistical Learning](https://img.shields.io/badge/Statistical_Learning-00897B?style=flat-square)
+![Risk Modeling](https://img.shields.io/badge/Risk_Modeling-6A5ACD?style=flat-square)
+![Anomaly Detection](https://img.shields.io/badge/Anomaly_Detection-795548?style=flat-square)
+![Time Series Analysis](https://img.shields.io/badge/Time_Series_Analysis-546E7A?style=flat-square)
 
-## Professional Stack
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+## Technical Background
 
-## Currently Learning
+**Programming Languages**
 
-⚛️ **React** — hooks deep, patterns, performance, React 19 concurrent model  
-▲ **Next.js** — App Router, Server Components, streaming, server actions  
-🎨 **Design Systems** — Radix, shadcn/ui patterns, Storybook, component API design  
-💨 **Tailwind CSS** — utility-first workflow, design tokens, theming  
-🧠 **Advanced TypeScript** — generics, conditional types, mapped types  
-🏗️ **Frontend System Design** — RADIO framework, scalable UI architecture  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)
 
-## Current Projects
+**Software Development**
 
-🏋️ **iron** — A premium workout tracker for the web. Built with Next.js, 
-Supabase, and offline-first architecture. I use it for every training 
-session, which means it has to be reliable. *In development.*
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=flat-square)
+![Frontend Architecture](https://img.shields.io/badge/Frontend_Architecture-555555?style=flat-square)
 
-## LeetCode Progress
+**Data Analysis & Machine Learning**
 
-![LeetCode](https://leetcard.jacoblin.cool/hugo-vitorino-cortez?theme=light&font=Karma)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Exploratory Data Analysis](https://img.shields.io/badge/Exploratory_Data_Analysis-607D8B?style=flat-square)
+![Statistical Analysis](https://img.shields.io/badge/Statistical_Analysis-795548?style=flat-square)
 
-## Let's connect
+## Currently Exploring
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/hugo-vitorino-cortez)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-8E44AD?style=flat-square)
+![Neural Networks for Time Series](https://img.shields.io/badge/Neural_Networks_for_Time_Series-546E7A?style=flat-square)
+![Probabilistic Forecasting](https://img.shields.io/badge/Probabilistic_Forecasting-6A5ACD?style=flat-square)
+![Transformer Architectures](https://img.shields.io/badge/Transformer_Architectures-00897B?style=flat-square)
+![Mathematics & Statistics for ML](https://img.shields.io/badge/Mathematics_&_Statistics_for_ML-795548?style=flat-square)
+
+## About This GitHub
+
+This profile documents my software projects, technical experiments, and learning journey across software engineering, data science, and machine learning.
